@@ -12,8 +12,8 @@ ticc-tak-toe :- https://ticc-tak-toe.netlify.app
 
 dicsgame:- https://dicsgame.netlify.app/
 
-Configuration for password-gentor ;- password-gentor.netlify.app
+Configuration for password-gentor :- https://password-gentor.netlify.app/
 
-board-creation:- board-creation.netlify.app
+board-creation:-  https://board-creation.netlify.app/
 
-weather-site2:- weather-site2.netlify.app
+weather-site2:- https://weather-site2.netlify.app/
